@@ -1,0 +1,955 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+                              AMP_BM_REF_DESIGN/main.o (memcpy)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+                              AMP_BM_REF_DESIGN/main.o (memset)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+                              AMP_BM_REF_DESIGN/main.o (sprintf)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-vsnprintf.o)
+                              AMP_BM_REF_DESIGN/bmlog.o (vsnprintf)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o) (_impure_ptr)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (_malloc_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (memchr)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o) (__malloc_lock)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (_Balloc)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o) (_sbrk_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o) (strcmp)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (strlen)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o) (_calloc_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o) (_free_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o) (memmove)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o) (errno)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivsi3.o)
+                              AMP_BM_REF_DESIGN/main.o (__aeabi_uidiv)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_dvmd_tls.o)
+                              C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_addsubdf3.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (__aeabi_dsub)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_muldivdf3.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (__aeabi_dmul)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_cmpdf2.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_fixdfsi.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o) (__aeabi_d2iz)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_aeabi_uldivmod.o)
+                              c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(bpabi.o)
+                              C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o)
+                              C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(bpabi.o) (__divdi3)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivdi3.o)
+                              C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(bpabi.o) (__udivdi3)
+C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_clzsi2.o)
+                              C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o) (__clzsi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+bm_sd_get_offset    0x4               AMP_BM_REF_DESIGN/sd_load.o
+sf_probe            0x4               AMP_BM_REF_DESIGN/qspi.o
+bm_sd_probe         0x4               AMP_BM_REF_DESIGN/sd_load.o
+sf_read             0x4               AMP_BM_REF_DESIGN/qspi.o
+bm_sd_block_read    0x4               AMP_BM_REF_DESIGN/sd_load.o
+gDMAtestIrqInfoChan0
+                    0xc               AMP_BM_REF_DESIGN/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x1e000000                . = 0x1e000000
+
+.text           0x1e000000     0xc908
+ AMP_BM_REF_DESIGN/start.o(.text)
+ .text          0x1e000000      0x204 AMP_BM_REF_DESIGN/start.o
+                0x1e000000                start
+                0x1e0001b4                ledblink
+                0x1e0001c8                ledblink1
+ *(.text)
+ .text          0x1e000204      0x528 AMP_BM_REF_DESIGN/main.o
+                0x1e000204                gic_sgi15_handler
+                0x1e000218                gic_sgi0to7_handler
+                0x1e00042c                gic_sgi8_handler
+                0x1e0004b0                delayN1
+                0x1e0004b4                delayN
+                0x1e0004b8                gic_sgi_init
+                0x1e0005c0                fire_fpga_irq
+                0x1e0005e0                DMAC_regs_dump
+                0x1e000708                InitPeripheral
+ .text          0x1e00072c       0xb0 AMP_BM_REF_DESIGN/exception.o
+                0x1e00072c                CPU_ARM_ExceptUndefInstrHndlr
+                0x1e00073c                CPU_ARM_ExceptSwiHndlr
+                0x1e00074c                CPU_ARM_ExceptPrefetchAbortHndlr
+                0x1e000760                CPU_ARM_ExceptDataAbortHndlr
+                0x1e000774                CPU_ARM_ExceptFiqHndlr
+                0x1e00079c                CPU_ARM_ExceptIrqHndlr
+ .text          0x1e0007dc      0x6bc AMP_BM_REF_DESIGN/gic.o
+                0x1e0007dc                gic_raise_interrupt
+                0x1e0007ec                gic_Int_vect_clr
+                0x1e0007fc                gic_Int_vect_set
+                0x1e000804                gic_Int_cb
+                0x1e000820                gic_Int_clr
+                0x1e00082c                gic_Int_dis
+                0x1e00084c                gic_Int_dis_all
+                0x1e000860                gic_Int_en
+                0x1e000880                gic_Int_cfg_target
+                0x1e000898                gic_Int_cfg_target_ex
+                0x1e0008f4                gic_Int_cfg
+                0x1e000974                gic_Int_init
+                0x1e000c50                gic_Int_cfg_ex
+                0x1e000d18                gic_Int_vect_reg
+                0x1e000d44                gic_Int_vect_unreg
+                0x1e000d6c                except_handler
+                0x1e000d78                identify_and_clear_source
+                0x1e000e70                C_irq_handler
+ .text          0x1e000e98      0x308 AMP_BM_REF_DESIGN/mmu.o
+                0x1e000e98                build_PGTL
+ .text          0x1e0011a0       0x80 AMP_BM_REF_DESIGN/memset_int.o
+                0x1e0011a4                memset_int
+ .text          0x1e001220      0x8e0 AMP_BM_REF_DESIGN/iic_bitbang.o
+                0x1e001220                Delay
+                0x1e00125c                SCLH_SDAH
+                0x1e0012b8                SCLH_SDAL
+                0x1e001314                SCLL_SDAH
+                0x1e001370                SCLL_SDAL
+                0x1e0013cc                IIC_ELow
+                0x1e0013e4                IIC_EHigh
+                0x1e0013fc                IIC_EStart
+                0x1e001448                IIC_EEnd
+                0x1e001494                IIC_EAck
+                0x1e0015e0                IIC_ESetport
+                0x1e001654                IIC_EWrite
+                0x1e0018b0                IIC_EXfer
+                0x1e001a9c                LCD_SetCursor
+                0x1e001ad4                IIC_InitIp
+ .text          0x1e001b00      0xcf8 AMP_BM_REF_DESIGN/dma.o
+                0x1e001b00                alt_dma_init
+                0x1e001cf4                alt_dma_channel_kill
+                0x1e001dd8                alt_dma_channel_alloc
+                0x1e001e08                alt_dma_channel_free
+                0x1e001e58                alt_dma_uninit
+                0x1e001fb8                alt_dma_channel_exec
+                0x1e00204c                alt_dma_send_event
+                0x1e002078                alt_dma_manager_state_get
+                0x1e002094                alt_dma_channel_state_get
+                0x1e0020bc                alt_dma_manager_fault_status_get
+                0x1e0020d4                alt_dma_channel_fault_status_get
+                0x1e0020f8                alt_dma_event_int_select
+                0x1e002160                alt_dma_int_clear
+                0x1e002184                alt_dma_memory_to_memory
+                0x1e002598                alt_dma_periph_to_memory
+ .text          0x1e0027f8      0xa40 AMP_BM_REF_DESIGN/dma_internal.o
+                0x1e0027f8                alt_dma_program_init
+                0x1e002820                alt_dma_program_uninit
+                0x1e002828                alt_dma_program_clear
+                0x1e002840                alt_dma_program_validate
+                0x1e00286c                alt_dma_program_progress_reg
+                0x1e002900                alt_dma_program_update_reg
+                0x1e002988                alt_dma_program_DMAADDH
+                0x1e0029f4                alt_dma_program_DMAADNH
+                0x1e002a60                alt_dma_program_DMAEND
+                0x1e002aac                alt_dma_program_DMAFLUSHP
+                0x1e002b04                alt_dma_program_DMAGO
+                0x1e002b8c                alt_dma_program_DMAKILL
+                0x1e002bbc                alt_dma_program_DMALD
+                0x1e002c24                alt_dma_program_DMALDP
+                0x1e002c94                alt_dma_program_DMALP
+                0x1e002d3c                alt_dma_program_DMALPEND
+                0x1e002e5c                alt_dma_program_DMALPFE
+                0x1e002eb8                alt_dma_program_DMAMOV
+                0x1e002f6c                alt_dma_program_DMANOP
+                0x1e002f9c                alt_dma_program_DMARMB
+                0x1e002fcc                alt_dma_program_DMASEV
+                0x1e003028                alt_dma_program_DMAST
+                0x1e003090                alt_dma_program_DMASTP
+                0x1e003100                alt_dma_program_DMASTZ
+                0x1e003130                alt_dma_program_DMAWFE
+                0x1e003188                alt_dma_program_DMAWFP
+                0x1e003208                alt_dma_program_DMAWMB
+ .text          0x1e003238      0x150 AMP_BM_REF_DESIGN/reset_manager.o
+                0x1e003238                watchdog_disable
+                0x1e00325c                is_wdt_in_reset
+                0x1e003270                reset_cpu
+                0x1e003284                reset_deassert_all_peripherals
+                0x1e003298                reset_deassert_all_bridges
+                0x1e0032d4                reset_deassert_cpu1
+                0x1e0032e8                reset_deassert_osc1timer0
+                0x1e003300                reset_deassert_osc1wd0
+                0x1e003318                reset_assert_all_peripherals
+                0x1e00332c                reset_assert_all_bridges
+                0x1e003330                reset_assert_all_peripherals_except_l4wd0
+                0x1e003344                reset_deassert_peripherals_handoff
+ .text          0x1e003388      0x50c AMP_BM_REF_DESIGN/fpga_manager.o
+                0x1e003388                is_fpgamgr_fpga_ready
+                0x1e0033fc                fpgamgr_program_fpga
+ .text          0x1e003894      0x1c4 AMP_BM_REF_DESIGN/bmlog.o
+                0x1e003894                serial0_putc
+                0x1e0038b8                uartputs
+                0x1e003910                _sbrk
+                0x1e003940                vscnprintf
+                0x1e003964                bmlog
+                0x1e0039fc                uartprintf
+ .text          0x1e003a58       0x64 AMP_BM_REF_DESIGN/twd.o
+                0x1e003a58                pvt_init
+                0x1e003a88                pvt_start
+                0x1e003a9c                pvt_stop
+                0x1e003ab0                pvt_read
+ .text          0x1e003abc       0x68 AMP_BM_REF_DESIGN/l2lock.o
+                0x1e003abc                lock_code_data_section_to_L2
+                0x1e003ad4                LockCodeData
+ .text          0x1e003b24      0x310 AMP_BM_REF_DESIGN/cache.o
+                0x1e003b24                L1DCacheFlush
+                0x1e003c04                L1DCacheInvalid
+                0x1e003ce4                L1ICacheInvalid
+                0x1e003cfc                L1DCacheDisable
+                0x1e003d18                L1DCacheEnable
+                0x1e003d3c                L1ICacheDisable
+                0x1e003d58                L1ICacheEnable
+                0x1e003d74                BML2CacheFlush
+                0x1e003d98                LockL2Ways
+ .text          0x1e003e34       0x8c AMP_BM_REF_DESIGN/qspi.o
+                0x1e003e34                bm_qspi_load_rbf
+ .text          0x1e003ec0       0x14 AMP_BM_REF_DESIGN/boot_mode.o
+                0x1e003ec0                bm_get_boot_mode
+ .text          0x1e003ed4       0xcc AMP_BM_REF_DESIGN/sd_load.o
+                0x1e003ed4                bm_sd_load_rbf
+ .text          0x1e003fa0      0x1b4 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+                0x1e003fa0                memcpy
+ .text          0x1e004154      0x10c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+                0x1e004154                memset
+ .text          0x1e004260       0xdc c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+                0x1e004260                _sprintf_r
+                0x1e0042c8                sprintf
+ .text          0x1e00433c     0x1f6c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+                0x1e00433c                _svfprintf_r
+ .text          0x1e0062a8       0xc8 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-vsnprintf.o)
+                0x1e0062a8                _vsnprintf_r
+                0x1e00632c                vsnprintf
+ .text          0x1e006370     0x1860 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                0x1e006568                _dtoa_r
+ .text          0x1e007bd0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .text          0x1e007bd0       0xd0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                0x1e007bd0                _setlocale_r
+                0x1e007c3c                __locale_charset
+                0x1e007c48                __locale_mb_cur_max
+                0x1e007c58                __locale_msgcharset
+                0x1e007c64                __locale_cjk_lang
+                0x1e007c6c                _localeconv_r
+                0x1e007c78                setlocale
+                0x1e007c94                localeconv
+ .text          0x1e007ca0      0x714 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x1e007ca0                _malloc_r
+ .text          0x1e0083b4       0xf8 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+                0x1e0083b4                memchr
+ .text          0x1e0084ac        0x8 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+                0x1e0084ac                __malloc_lock
+                0x1e0084b0                __malloc_unlock
+ .text          0x1e0084b4      0xd14 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x1e0084b4                _Balloc
+                0x1e008538                _Bfree
+                0x1e008554                __multadd
+                0x1e008630                __s2b
+                0x1e008718                __hi0bits
+                0x1e008768                __lo0bits
+                0x1e0087f8                __i2b
+                0x1e00881c                __multiply
+                0x1e008a14                __pow5mult
+                0x1e008b08                __lshift
+                0x1e008c04                __mcmp
+                0x1e008c68                __mdiff
+                0x1e008db8                __ulp
+                0x1e008e14                __b2d
+                0x1e008ed8                __d2b
+                0x1e008fe8                __ratio
+                0x1e00906c                _mprec_log10
+                0x1e0090c0                __copybits
+                0x1e009134                __any_on
+ .text          0x1e0091c8       0x84 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+                0x1e0091c8                __fpclassifyd
+ .text          0x1e00924c       0x40 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+                0x1e00924c                _sbrk_r
+ .text          0x1e00928c      0x230 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+                0x1e00928c                strcmp
+ .text          0x1e0094bc       0x60 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+                0x1e0094bc                strlen
+ .text          0x1e00951c     0x11ec c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+                0x1e00951c                __ssprint_r
+                0x1e0096ac                _svfiprintf_r
+ .text          0x1e00a708       0x90 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+                0x1e00a708                _calloc_r
+ .text          0x1e00a798      0x360 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+                0x1e00a798                _malloc_trim_r
+                0x1e00a894                _free_r
+ .text          0x1e00aaf8      0x130 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+                0x1e00aaf8                memmove
+ .text          0x1e00ac28      0x55c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+                0x1e00ac28                _realloc_r
+ .text          0x1e00b184      0x1a8 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+                0x1e00b184                cleanup_glue
+                0x1e00b1b0                _reclaim_reent
+                0x1e00b2b8                _wrapup_reent
+ .text          0x1e00b32c      0x114 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivsi3.o)
+                0x1e00b32c                __aeabi_uidiv
+                0x1e00b32c                __udivsi3
+                0x1e00b420                __aeabi_uidivmod
+ .text          0x1e00b440        0x4 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_dvmd_tls.o)
+                0x1e00b440                __aeabi_idiv0
+                0x1e00b440                __aeabi_ldiv0
+ .text          0x1e00b444      0x41c C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_addsubdf3.o)
+                0x1e00b444                __aeabi_drsub
+                0x1e00b44c                __aeabi_dsub
+                0x1e00b44c                __subdf3
+                0x1e00b450                __aeabi_dadd
+                0x1e00b450                __adddf3
+                0x1e00b760                __floatunsidf
+                0x1e00b760                __aeabi_ui2d
+                0x1e00b784                __floatsidf
+                0x1e00b784                __aeabi_i2d
+                0x1e00b7ac                __aeabi_f2d
+                0x1e00b7ac                __extendsfdf2
+                0x1e00b7ec                __floatundidf
+                0x1e00b7ec                __aeabi_ul2d
+                0x1e00b800                __floatdidf
+                0x1e00b800                __aeabi_l2d
+ .text          0x1e00b860      0x49c C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_muldivdf3.o)
+                0x1e00b860                __aeabi_dmul
+                0x1e00b860                __muldf3
+                0x1e00baf0                __divdf3
+                0x1e00baf0                __aeabi_ddiv
+ .text          0x1e00bcfc      0x144 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_cmpdf2.o)
+                0x1e00bcfc                __gtdf2
+                0x1e00bcfc                __gedf2
+                0x1e00bd04                __ltdf2
+                0x1e00bd04                __ledf2
+                0x1e00bd0c                __nedf2
+                0x1e00bd0c                __eqdf2
+                0x1e00bd0c                __cmpdf2
+                0x1e00bd94                __aeabi_cdrcmple
+                0x1e00bdb0                __aeabi_cdcmpeq
+                0x1e00bdb0                __aeabi_cdcmple
+                0x1e00bdc8                __aeabi_dcmpeq
+                0x1e00bde0                __aeabi_dcmplt
+                0x1e00bdf8                __aeabi_dcmple
+                0x1e00be10                __aeabi_dcmpge
+                0x1e00be28                __aeabi_dcmpgt
+ .text          0x1e00be40       0x5c C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_fixdfsi.o)
+                0x1e00be40                __aeabi_d2iz
+                0x1e00be40                __fixdfsi
+ .text          0x1e00be9c       0x3c C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_aeabi_uldivmod.o)
+                0x1e00be9c                __aeabi_uldivmod
+ .text          0x1e00bed8       0x84 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(bpabi.o)
+                0x1e00bed8                __gnu_ldivmod_helper
+                0x1e00bf1c                __gnu_uldivmod_helper
+ .text          0x1e00bf5c      0x4dc C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o)
+                0x1e00bf5c                __divdi3
+ .text          0x1e00c438      0x488 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivdi3.o)
+                0x1e00c438                __udivdi3
+ .text          0x1e00c8c0       0x48 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_clzsi2.o)
+                0x1e00c8c0                __clzsi2
+
+.glue_7         0x1e00c908        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x1e00c908        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x1e00c908        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x1e00c908        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x1e00c908        0x0
+ .iplt          0x00000000        0x0 AMP_BM_REF_DESIGN/start.o
+
+.text.startup   0x1e00c908      0xf80
+ .text.startup  0x1e00c908      0xf80 AMP_BM_REF_DESIGN/main.o
+                0x1e00c908                main
+
+.rodata         0x1e00d888      0x170
+ *(.rodata)
+ .rodata        0x1e00d888        0x4 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .rodata        0x1e00d88c       0x20 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .rodata        0x1e00d8ac        0x4 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+                0x1e00d8ac                _global_impure_ptr
+ .rodata        0x1e00d8b0      0x128 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+                0x1e00d8c0                __mprec_tens
+                0x1e00d988                __mprec_tinytens
+                0x1e00d9b0                __mprec_bigtens
+ .rodata        0x1e00d9d8       0x20 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+
+.rodata.str1.4  0x1e00d9f8      0xc90
+ .rodata.str1.4
+                0x1e00d9f8      0xa22 AMP_BM_REF_DESIGN/main.o
+                                0xa44 (size before relaxing)
+ *fill*         0x1e00e41a        0x2 00
+ .rodata.str1.4
+                0x1e00e41c       0xb3 AMP_BM_REF_DESIGN/dma.o
+                                 0xb4 (size before relaxing)
+ *fill*         0x1e00e4cf        0x1 00
+ .rodata.str1.4
+                0x1e00e4d0       0xd4 AMP_BM_REF_DESIGN/fpga_manager.o
+ .rodata.str1.4
+                0x1e00e5a4       0x2a AMP_BM_REF_DESIGN/cache.o
+                                 0x2c (size before relaxing)
+ *fill*         0x1e00e5ce        0x2 00
+ .rodata.str1.4
+                0x1e00e5d0       0x1c AMP_BM_REF_DESIGN/qspi.o
+ .rodata.str1.4
+                0x1e00e5ec       0x38 AMP_BM_REF_DESIGN/sd_load.o
+ .rodata.str1.4
+                0x1e00e624       0x42 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x1e00e666        0x2 00
+ .rodata.str1.4
+                0x1e00e668       0x10 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x1e00e678        0x2 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x1e00e67a        0x2 00
+ .rodata.str1.4
+                0x1e00e67c        0xc c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ .rodata.str1.4
+                0x00000000       0x30 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+
+.ARM.extab      0x1e00e688        0x0
+ .ARM.extab     0x1e00e688        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o)
+ .ARM.extab     0x1e00e688        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivdi3.o)
+
+.ARM.exidx      0x1e00e688        0x8
+ .ARM.exidx     0x1e00e688        0x8 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x1e00e690        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+
+.rel.dyn        0x1e00e690        0x0
+ .rel.iplt      0x00000000        0x0 AMP_BM_REF_DESIGN/start.o
+
+.data           0x1e00e6a0     0x6ccc
+ *(.data)
+ .data          0x1e00e6a0     0x6400 AMP_BM_REF_DESIGN/start.o
+                0x1e013aa0                usr_stack_end
+ .data          0x1e014aa0       0x10 AMP_BM_REF_DESIGN/main.o
+                0x1e014aa0                asp
+                0x1e014aa4                testIL
+                0x1e014aa8                p_pvt
+                0x1e014aac                p_fpga_dt
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/exception.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/gic.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/mmu.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/memset_int.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/dma.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/dma_internal.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/reset_manager.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/fpga_manager.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/bmlog.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/twd.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/l2lock.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/cache.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/qspi.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/boot_mode.o
+ .data          0x1e014ab0        0x0 AMP_BM_REF_DESIGN/sd_load.o
+ .data          0x1e014ab0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .data          0x1e014ab0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .data          0x1e014ab0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .data          0x1e014ab0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .data          0x1e014ab0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-vsnprintf.o)
+ .data          0x1e014ab0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .data          0x1e014ab0      0x430 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+                0x1e014ab0                _impure_ptr
+ .data          0x1e014ee0       0x7c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                0x1e014f00                __mb_cur_max
+ .data          0x1e014f5c      0x410 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x1e014f5c                __malloc_av_
+                0x1e015364                __malloc_sbrk_base
+                0x1e015368                __malloc_trim_threshold
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .data          0x1e01536c        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivsi3.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_dvmd_tls.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_addsubdf3.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_muldivdf3.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_cmpdf2.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_fixdfsi.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(bpabi.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivdi3.o)
+ .data          0x1e01536c        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_clzsi2.o)
+
+.igot.plt       0x1e01536c        0x0
+ .igot.plt      0x00000000        0x0 AMP_BM_REF_DESIGN/start.o
+
+PGTL            0x1e018000     0x4000
+                0x1e018000                . = ALIGN (0x4000)
+                0x1e018000                PROVIDE (__start_PGTL, ABSOLUTE (.))
+ PGTL           0x1e018000     0x4000 AMP_BM_REF_DESIGN/mmu.o
+                0x1e018000                PageTable
+                0x1e01c000                PROVIDE (__stop_PGTL, .)
+
+.bss            0x1e01c000     0x2104
+                0x1e01c000                bss_start = .
+ *(.bss)
+ .bss           0x1e01c000        0x0 AMP_BM_REF_DESIGN/start.o
+ .bss           0x1e01c000       0x30 AMP_BM_REF_DESIGN/main.o
+                0x1e01c000                sgi15task_pending
+                0x1e01c004                gDMAtestDone
+                0x1e01c008                printk
+                0x1e01c00c                gCacheCoherence
+                0x1e01c010                l2lock
+                0x1e01c014                _raw_spinlock
+                0x1e01c018                _raw_spinunlock
+                0x1e01c01c                down_trylock
+                0x1e01c020                gINTtestDone
+                0x1e01c024                gFPGA_IRQ_req
+                0x1e01c028                gARM_IRQ_ack
+                0x1e01c02c                gDMAtestACPDone
+ .bss           0x1e01c030        0x0 AMP_BM_REF_DESIGN/exception.o
+ .bss           0x1e01c030     0x1fe4 AMP_BM_REF_DESIGN/gic.o
+ .bss           0x1e01e014        0x0 AMP_BM_REF_DESIGN/mmu.o
+ .bss           0x1e01e014        0x0 AMP_BM_REF_DESIGN/memset_int.o
+ .bss           0x1e01e014        0x0 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .bss           0x1e01e014        0x8 AMP_BM_REF_DESIGN/dma.o
+ .bss           0x1e01e01c        0x0 AMP_BM_REF_DESIGN/dma_internal.o
+ .bss           0x1e01e01c        0x0 AMP_BM_REF_DESIGN/reset_manager.o
+ .bss           0x1e01e01c        0x0 AMP_BM_REF_DESIGN/fpga_manager.o
+ .bss           0x1e01e01c       0x84 AMP_BM_REF_DESIGN/bmlog.o
+ .bss           0x1e01e0a0        0x0 AMP_BM_REF_DESIGN/twd.o
+ .bss           0x1e01e0a0        0x0 AMP_BM_REF_DESIGN/l2lock.o
+ .bss           0x1e01e0a0        0x0 AMP_BM_REF_DESIGN/cache.o
+ .bss           0x1e01e0a0        0x0 AMP_BM_REF_DESIGN/qspi.o
+ .bss           0x1e01e0a0        0x0 AMP_BM_REF_DESIGN/boot_mode.o
+ .bss           0x1e01e0a0        0x0 AMP_BM_REF_DESIGN/sd_load.o
+ .bss           0x1e01e0a0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .bss           0x1e01e0a0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .bss           0x1e01e0a0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .bss           0x1e01e0a0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .bss           0x1e01e0a0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-vsnprintf.o)
+ .bss           0x1e01e0a0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .bss           0x1e01e0a0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .bss           0x1e01e0a0        0xc c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+                0x1e01e0a0                _PathLocale
+                0x1e01e0a4                __mlocale_changed
+                0x1e01e0a8                __nlocale_changed
+ .bss           0x1e01e0ac       0x34 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+                0x1e01e0ac                __malloc_top_pad
+                0x1e01e0b0                __malloc_current_mallinfo
+                0x1e01e0d8                __malloc_max_sbrked_mem
+                0x1e01e0dc                __malloc_max_total_mem
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .bss           0x1e01e0e0        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivsi3.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_dvmd_tls.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(bpabi.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivdi3.o)
+ .bss           0x1e01e0e0        0x0 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_clzsi2.o)
+                0x1e01e0e0                . = ALIGN (0x4)
+                0x1e01e0e0                bss_end = .
+ COMMON         0x1e01e0e0        0xc AMP_BM_REF_DESIGN/main.o
+                0x1e01e0e0                gDMAtestIrqInfoChan0
+ COMMON         0x1e01e0ec        0x8 AMP_BM_REF_DESIGN/qspi.o
+                0x1e01e0ec                sf_probe
+                0x1e01e0f0                sf_read
+ COMMON         0x1e01e0f4        0xc AMP_BM_REF_DESIGN/sd_load.o
+                0x1e01e0f4                bm_sd_get_offset
+                0x1e01e0f8                bm_sd_probe
+                0x1e01e0fc                bm_sd_block_read
+ COMMON         0x1e01e100        0x4 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+                0x1e01e100                errno
+LOAD AMP_BM_REF_DESIGN/main.o
+LOAD AMP_BM_REF_DESIGN/exception.o
+LOAD AMP_BM_REF_DESIGN/gic.o
+LOAD AMP_BM_REF_DESIGN/mmu.o
+LOAD AMP_BM_REF_DESIGN/memset_int.o
+LOAD AMP_BM_REF_DESIGN/iic_bitbang.o
+LOAD AMP_BM_REF_DESIGN/start.o
+LOAD AMP_BM_REF_DESIGN/dma.o
+LOAD AMP_BM_REF_DESIGN/dma_internal.o
+LOAD AMP_BM_REF_DESIGN/reset_manager.o
+LOAD AMP_BM_REF_DESIGN/fpga_manager.o
+LOAD AMP_BM_REF_DESIGN/bmlog.o
+LOAD AMP_BM_REF_DESIGN/twd.o
+LOAD AMP_BM_REF_DESIGN/l2lock.o
+LOAD AMP_BM_REF_DESIGN/cache.o
+LOAD AMP_BM_REF_DESIGN/qspi.o
+LOAD AMP_BM_REF_DESIGN/boot_mode.o
+LOAD AMP_BM_REF_DESIGN/sd_load.o
+LOAD c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libm.a
+LOAD c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a
+LOAD C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a
+OUTPUT(bm.axf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x35
+ .ARM.attributes
+                0x00000000       0x27 AMP_BM_REF_DESIGN/start.o
+ .ARM.attributes
+                0x00000027       0x37 AMP_BM_REF_DESIGN/main.o
+ .ARM.attributes
+                0x0000005e       0x27 AMP_BM_REF_DESIGN/exception.o
+ .ARM.attributes
+                0x00000085       0x37 AMP_BM_REF_DESIGN/gic.o
+ .ARM.attributes
+                0x000000bc       0x37 AMP_BM_REF_DESIGN/mmu.o
+ .ARM.attributes
+                0x000000f3       0x27 AMP_BM_REF_DESIGN/memset_int.o
+ .ARM.attributes
+                0x0000011a       0x37 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .ARM.attributes
+                0x00000151       0x37 AMP_BM_REF_DESIGN/dma.o
+ .ARM.attributes
+                0x00000188       0x37 AMP_BM_REF_DESIGN/dma_internal.o
+ .ARM.attributes
+                0x000001bf       0x37 AMP_BM_REF_DESIGN/reset_manager.o
+ .ARM.attributes
+                0x000001f6       0x37 AMP_BM_REF_DESIGN/fpga_manager.o
+ .ARM.attributes
+                0x0000022d       0x37 AMP_BM_REF_DESIGN/bmlog.o
+ .ARM.attributes
+                0x00000264       0x37 AMP_BM_REF_DESIGN/twd.o
+ .ARM.attributes
+                0x0000029b       0x27 AMP_BM_REF_DESIGN/l2lock.o
+ .ARM.attributes
+                0x000002c2       0x37 AMP_BM_REF_DESIGN/cache.o
+ .ARM.attributes
+                0x000002f9       0x37 AMP_BM_REF_DESIGN/qspi.o
+ .ARM.attributes
+                0x00000330       0x37 AMP_BM_REF_DESIGN/boot_mode.o
+ .ARM.attributes
+                0x00000367       0x37 AMP_BM_REF_DESIGN/sd_load.o
+ .ARM.attributes
+                0x0000039e       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000003d0       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000402       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000434       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000466       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-vsnprintf.o)
+ .ARM.attributes
+                0x00000498       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x000004ca       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000004fc       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000052e       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000560       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000592       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000005c4       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x000005f6       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000628       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000065a       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000068c       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000006be       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x000006f0       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000722       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000754       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000786       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x000007b8       0x32 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000007ea       0x1a C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000804       0x18 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000081c       0x1a C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000836       0x1a C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000850       0x1a C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000086a       0x1a C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000884       0x1a C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000089e       0x32 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000008d0       0x32 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000902       0x32 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000934       0x1a C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_clzsi2.o)
+
+.comment        0x00000000       0x30
+ .comment       0x00000000       0x30 AMP_BM_REF_DESIGN/main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/gic.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/mmu.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/dma.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/dma_internal.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/reset_manager.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/fpga_manager.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/bmlog.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/twd.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/cache.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/qspi.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/boot_mode.o
+ .comment       0x00000000       0x31 AMP_BM_REF_DESIGN/sd_load.o
+
+.debug_line     0x00000000     0x226c
+ .debug_line    0x00000000       0xd0 AMP_BM_REF_DESIGN/start.o
+ .debug_line    0x000000d0      0x686 AMP_BM_REF_DESIGN/main.o
+ .debug_line    0x00000756       0x7b AMP_BM_REF_DESIGN/exception.o
+ .debug_line    0x000007d1      0x41b AMP_BM_REF_DESIGN/gic.o
+ .debug_line    0x00000bec      0x135 AMP_BM_REF_DESIGN/mmu.o
+ .debug_line    0x00000d21       0x6a AMP_BM_REF_DESIGN/memset_int.o
+ .debug_line    0x00000d8b      0x24e AMP_BM_REF_DESIGN/iic_bitbang.o
+ .debug_line    0x00000fd9      0x3a1 AMP_BM_REF_DESIGN/dma.o
+ .debug_line    0x0000137a      0x3a7 AMP_BM_REF_DESIGN/dma_internal.o
+ .debug_line    0x00001721      0x113 AMP_BM_REF_DESIGN/reset_manager.o
+ .debug_line    0x00001834      0x388 AMP_BM_REF_DESIGN/fpga_manager.o
+ .debug_line    0x00001bbc      0x20a AMP_BM_REF_DESIGN/bmlog.o
+ .debug_line    0x00001dc6       0x80 AMP_BM_REF_DESIGN/twd.o
+ .debug_line    0x00001e46       0x63 AMP_BM_REF_DESIGN/l2lock.o
+ .debug_line    0x00001ea9      0x1e2 AMP_BM_REF_DESIGN/cache.o
+ .debug_line    0x0000208b       0x97 AMP_BM_REF_DESIGN/qspi.o
+ .debug_line    0x00002122       0x86 AMP_BM_REF_DESIGN/boot_mode.o
+ .debug_line    0x000021a8       0xc4 AMP_BM_REF_DESIGN/sd_load.o
+
+.debug_info     0x00000000     0x6a46
+ .debug_info    0x00000000       0x4d AMP_BM_REF_DESIGN/start.o
+ .debug_info    0x0000004d     0x16a6 AMP_BM_REF_DESIGN/main.o
+ .debug_info    0x000016f3       0x51 AMP_BM_REF_DESIGN/exception.o
+ .debug_info    0x00001744      0xe6e AMP_BM_REF_DESIGN/gic.o
+ .debug_info    0x000025b2       0xed AMP_BM_REF_DESIGN/mmu.o
+ .debug_info    0x0000269f       0x52 AMP_BM_REF_DESIGN/memset_int.o
+ .debug_info    0x000026f1      0x435 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .debug_info    0x00002b26      0xedc AMP_BM_REF_DESIGN/dma.o
+ .debug_info    0x00003a02      0xc7f AMP_BM_REF_DESIGN/dma_internal.o
+ .debug_info    0x00004681      0x3cb AMP_BM_REF_DESIGN/reset_manager.o
+ .debug_info    0x00004a4c      0x84a AMP_BM_REF_DESIGN/fpga_manager.o
+ .debug_info    0x00005296      0x6c2 AMP_BM_REF_DESIGN/bmlog.o
+ .debug_info    0x00005958       0xe9 AMP_BM_REF_DESIGN/twd.o
+ .debug_info    0x00005a41       0x4e AMP_BM_REF_DESIGN/l2lock.o
+ .debug_info    0x00005a8f      0x478 AMP_BM_REF_DESIGN/cache.o
+ .debug_info    0x00005f07      0x4de AMP_BM_REF_DESIGN/qspi.o
+ .debug_info    0x000063e5       0xc4 AMP_BM_REF_DESIGN/boot_mode.o
+ .debug_info    0x000064a9      0x59d AMP_BM_REF_DESIGN/sd_load.o
+
+.debug_abbrev   0x00000000     0x1af7
+ .debug_abbrev  0x00000000       0x14 AMP_BM_REF_DESIGN/start.o
+ .debug_abbrev  0x00000014      0x4d8 AMP_BM_REF_DESIGN/main.o
+ .debug_abbrev  0x000004ec       0x14 AMP_BM_REF_DESIGN/exception.o
+ .debug_abbrev  0x00000500      0x406 AMP_BM_REF_DESIGN/gic.o
+ .debug_abbrev  0x00000906       0xa9 AMP_BM_REF_DESIGN/mmu.o
+ .debug_abbrev  0x000009af       0x14 AMP_BM_REF_DESIGN/memset_int.o
+ .debug_abbrev  0x000009c3      0x129 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .debug_abbrev  0x00000aec      0x2c7 AMP_BM_REF_DESIGN/dma.o
+ .debug_abbrev  0x00000db3      0x1e7 AMP_BM_REF_DESIGN/dma_internal.o
+ .debug_abbrev  0x00000f9a      0x188 AMP_BM_REF_DESIGN/reset_manager.o
+ .debug_abbrev  0x00001122      0x18f AMP_BM_REF_DESIGN/fpga_manager.o
+ .debug_abbrev  0x000012b1      0x255 AMP_BM_REF_DESIGN/bmlog.o
+ .debug_abbrev  0x00001506       0x8b AMP_BM_REF_DESIGN/twd.o
+ .debug_abbrev  0x00001591       0x14 AMP_BM_REF_DESIGN/l2lock.o
+ .debug_abbrev  0x000015a5      0x1bd AMP_BM_REF_DESIGN/cache.o
+ .debug_abbrev  0x00001762      0x140 AMP_BM_REF_DESIGN/qspi.o
+ .debug_abbrev  0x000018a2       0x9b AMP_BM_REF_DESIGN/boot_mode.o
+ .debug_abbrev  0x0000193d      0x1ba AMP_BM_REF_DESIGN/sd_load.o
+
+.debug_aranges  0x00000000      0x248
+ .debug_aranges
+                0x00000000       0x20 AMP_BM_REF_DESIGN/start.o
+ .debug_aranges
+                0x00000020       0x28 AMP_BM_REF_DESIGN/main.o
+ .debug_aranges
+                0x00000048       0x20 AMP_BM_REF_DESIGN/exception.o
+ .debug_aranges
+                0x00000068       0x20 AMP_BM_REF_DESIGN/gic.o
+ .debug_aranges
+                0x00000088       0x20 AMP_BM_REF_DESIGN/mmu.o
+ .debug_aranges
+                0x000000a8       0x20 AMP_BM_REF_DESIGN/memset_int.o
+ .debug_aranges
+                0x000000c8       0x20 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .debug_aranges
+                0x000000e8       0x20 AMP_BM_REF_DESIGN/dma.o
+ .debug_aranges
+                0x00000108       0x20 AMP_BM_REF_DESIGN/dma_internal.o
+ .debug_aranges
+                0x00000128       0x20 AMP_BM_REF_DESIGN/reset_manager.o
+ .debug_aranges
+                0x00000148       0x20 AMP_BM_REF_DESIGN/fpga_manager.o
+ .debug_aranges
+                0x00000168       0x20 AMP_BM_REF_DESIGN/bmlog.o
+ .debug_aranges
+                0x00000188       0x20 AMP_BM_REF_DESIGN/twd.o
+ .debug_aranges
+                0x000001a8       0x20 AMP_BM_REF_DESIGN/l2lock.o
+ .debug_aranges
+                0x000001c8       0x20 AMP_BM_REF_DESIGN/cache.o
+ .debug_aranges
+                0x000001e8       0x20 AMP_BM_REF_DESIGN/qspi.o
+ .debug_aranges
+                0x00000208       0x20 AMP_BM_REF_DESIGN/boot_mode.o
+ .debug_aranges
+                0x00000228       0x20 AMP_BM_REF_DESIGN/sd_load.o
+
+.debug_loc      0x00000000     0x4955
+ .debug_loc     0x00000000     0x115e AMP_BM_REF_DESIGN/main.o
+ .debug_loc     0x0000115e      0x53c AMP_BM_REF_DESIGN/gic.o
+ .debug_loc     0x0000169a      0x176 AMP_BM_REF_DESIGN/mmu.o
+ .debug_loc     0x00001810      0x89e AMP_BM_REF_DESIGN/iic_bitbang.o
+ .debug_loc     0x000020ae      0xd0e AMP_BM_REF_DESIGN/dma.o
+ .debug_loc     0x00002dbc      0xda0 AMP_BM_REF_DESIGN/dma_internal.o
+ .debug_loc     0x00003b5c       0x5e AMP_BM_REF_DESIGN/reset_manager.o
+ .debug_loc     0x00003bba      0x7cb AMP_BM_REF_DESIGN/fpga_manager.o
+ .debug_loc     0x00004385      0x170 AMP_BM_REF_DESIGN/bmlog.o
+ .debug_loc     0x000044f5       0x13 AMP_BM_REF_DESIGN/twd.o
+ .debug_loc     0x00004508      0x323 AMP_BM_REF_DESIGN/cache.o
+ .debug_loc     0x0000482b       0x3e AMP_BM_REF_DESIGN/qspi.o
+ .debug_loc     0x00004869       0xec AMP_BM_REF_DESIGN/sd_load.o
+
+.debug_ranges   0x00000000      0xf58
+ .debug_ranges  0x00000000      0x460 AMP_BM_REF_DESIGN/main.o
+ .debug_ranges  0x00000460      0x228 AMP_BM_REF_DESIGN/gic.o
+ .debug_ranges  0x00000688      0x240 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .debug_ranges  0x000008c8      0x100 AMP_BM_REF_DESIGN/dma.o
+ .debug_ranges  0x000009c8       0x48 AMP_BM_REF_DESIGN/reset_manager.o
+ .debug_ranges  0x00000a10      0x488 AMP_BM_REF_DESIGN/fpga_manager.o
+ .debug_ranges  0x00000e98       0x78 AMP_BM_REF_DESIGN/cache.o
+ .debug_ranges  0x00000f10       0x48 AMP_BM_REF_DESIGN/sd_load.o
+
+.debug_str      0x00000000     0x251d
+ .debug_str     0x00000000      0xa2c AMP_BM_REF_DESIGN/main.o
+                                0xab7 (size before relaxing)
+ .debug_str     0x00000a2c      0x236 AMP_BM_REF_DESIGN/gic.o
+                                0x6fb (size before relaxing)
+ .debug_str     0x00000c62       0x37 AMP_BM_REF_DESIGN/mmu.o
+                                 0xb9 (size before relaxing)
+ .debug_str     0x00000c99       0xdf AMP_BM_REF_DESIGN/iic_bitbang.o
+                                0x169 (size before relaxing)
+ .debug_str     0x00000d78      0xe71 AMP_BM_REF_DESIGN/dma.o
+                               0x1270 (size before relaxing)
+ .debug_str     0x00001be9      0x362 AMP_BM_REF_DESIGN/dma_internal.o
+                                0xb50 (size before relaxing)
+ .debug_str     0x00001f4b      0x1c7 AMP_BM_REF_DESIGN/reset_manager.o
+                                0x26f (size before relaxing)
+ .debug_str     0x00002112       0xef AMP_BM_REF_DESIGN/fpga_manager.o
+                                0x19b (size before relaxing)
+ .debug_str     0x00002201       0xb7 AMP_BM_REF_DESIGN/bmlog.o
+                                0x471 (size before relaxing)
+ .debug_str     0x000022b8       0x3d AMP_BM_REF_DESIGN/twd.o
+                                 0xb5 (size before relaxing)
+ .debug_str     0x000022f5       0xde AMP_BM_REF_DESIGN/cache.o
+                                0x16d (size before relaxing)
+ .debug_str     0x000023d3       0x6a AMP_BM_REF_DESIGN/qspi.o
+                                0x3e2 (size before relaxing)
+ .debug_str     0x0000243d       0x2f AMP_BM_REF_DESIGN/boot_mode.o
+                                 0xb2 (size before relaxing)
+ .debug_str     0x0000246c       0xb1 AMP_BM_REF_DESIGN/sd_load.o
+                                0x435 (size before relaxing)
+
+.debug_frame    0x00000000     0x135c
+ .debug_frame   0x00000000      0x138 AMP_BM_REF_DESIGN/main.o
+ .debug_frame   0x00000138      0x18c AMP_BM_REF_DESIGN/gic.o
+ .debug_frame   0x000002c4       0x38 AMP_BM_REF_DESIGN/mmu.o
+ .debug_frame   0x000002fc      0x164 AMP_BM_REF_DESIGN/iic_bitbang.o
+ .debug_frame   0x00000460      0x14c AMP_BM_REF_DESIGN/dma.o
+ .debug_frame   0x000005ac      0x248 AMP_BM_REF_DESIGN/dma_internal.o
+ .debug_frame   0x000007f4       0xd8 AMP_BM_REF_DESIGN/reset_manager.o
+ .debug_frame   0x000008cc       0x44 AMP_BM_REF_DESIGN/fpga_manager.o
+ .debug_frame   0x00000910       0xa8 AMP_BM_REF_DESIGN/bmlog.o
+ .debug_frame   0x000009b8       0x50 AMP_BM_REF_DESIGN/twd.o
+ .debug_frame   0x00000a08       0xd8 AMP_BM_REF_DESIGN/cache.o
+ .debug_frame   0x00000ae0       0x2c AMP_BM_REF_DESIGN/qspi.o
+ .debug_frame   0x00000b0c       0x20 AMP_BM_REF_DESIGN/boot_mode.o
+ .debug_frame   0x00000b2c       0x2c AMP_BM_REF_DESIGN/sd_load.o
+ .debug_frame   0x00000b58       0x2c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000b84       0x28 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000bac       0x5c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00000c08       0x3c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000c44       0x48 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-vsnprintf.o)
+ .debug_frame   0x00000c8c       0x64 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000cf0       0x98 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-locale.o)
+ .debug_frame   0x00000d88       0x38 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000dc0       0x2c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000dec       0x30 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000e1c      0x214 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-mprec.o)
+ .debug_frame   0x00001030       0x20 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00001050       0x2c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000107c       0x30 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x000010ac       0x20 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-strlen.o)
+ .debug_frame   0x000010cc       0x64 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00001130       0x28 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-callocr.o)
+ .debug_frame   0x00001158       0x50 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-freer.o)
+ .debug_frame   0x000011a8       0x2c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-memmove.o)
+ .debug_frame   0x000011d4       0x38 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000120c       0x68 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.6.3/../../../../arm-none-eabi/lib\libc.a(lib_a-reent.o)
+ .debug_frame   0x00001274       0x20 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001294       0x58 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(bpabi.o)
+ .debug_frame   0x000012ec       0x38 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_divdi3.o)
+ .debug_frame   0x00001324       0x38 C:/Program Files (x86)/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.3\libgcc.a(_udivdi3.o)
