@@ -336,8 +336,8 @@ void  gic_sgi0to7_handler (void  *p_arg)
 }
 
 
-/* 将bm镜像和共享参数的2m物理内存锁住l2,即不会缓存到l2,也不会从L1         清洗下来,会直接清到L3(ddr)
- * 同时L2中对应的这2m也不会clean到L3,参考L2 CACHE手册3.3.11
+/* 将bm镜像和共享参数的2m物理内存锁住l2,即不会继续从ddr缓存到l2,也不会从L1         清洗下来,会直接清到L3(ddr)
+ * 同时对应这2m已经缓存到L2中的内容也不会clean到L3(ddr),参考L2 CACHE手册3.3.11
  * 目的是不让linux操作其他和这2m竞争l2cache的物理地址将这2m刷出l2,保证了裸机的运行速度以及
  * 裸机和linux双方对共享参数的访问速度
  */
@@ -356,8 +356,7 @@ void  gic_sgi8_handler (void  *p_arg)
 	/********** ISR Top Half  begin ************/
 	
 	gCacheCoherence++;
-	if(gCacheCoherence == 2)
-	{
+	if (gCacheCoherence == 2) {
 		printk("lock_code_data_section_to_L2=0x%08x\n", lock_code_data_section_to_L2);
 		memcpy((void *)AMP_SHARE_DMABUF_START, (void *)SDRAM_PHYS_BASE, 0x20000);
 		/*
@@ -1023,9 +1022,10 @@ int  main (void)
 	IIC_EXfer(LCD_ADDR, cDispBuf[0], strlen(cDispBuf[0])>15?16:strlen(cDispBuf[0]));
 #endif
 
-	/* 收到linux发送sgi8就退出循环,意思是等待linux启动初始化 */
-	while(!gCacheCoherence)
-	{
+	/* 收到linux发送sgi8就退出循环,意思是等待linux启动初始化
+     * 在linux smp.c中的amp_init函数中触发
+	 */
+	while (!gCacheCoherence) {
 		/** led blink for hand shake debug with linux **/
 		k++;
 		if((k&0x3FFFF) == 0)
@@ -1041,7 +1041,7 @@ int  main (void)
 	
 	/* 将2G到4G-16M的虚拟地址空间映射到内核设置的页表 */
 	for(j = 0; j < 2048-16; j++) //16MB for IO map space
-				PageTable[j+2048] = *p++;
+		PageTable[j+2048] = *p++;
 
 	/*
 	**************************************************************
