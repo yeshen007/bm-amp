@@ -1071,11 +1071,11 @@ int  main (void)
 	** /semaphore                                                                                                              ****
 	********************************************************************************
 	*/
-	printk = (printk_fn)asp->sta.printk_fn;
-	_raw_spinlock = (raw_spinlock_fn)asp->sta.spinlock_lock_fn;		//
-	_raw_spinunlock = (raw_spinlock_fn)asp->sta.spinlock_unlock_fn;
+	printk = (printk_fn)asp->sta.printk_fn;		//内核printk
+	_raw_spinlock = (raw_spinlock_fn)asp->sta.spinlock_lock_fn;		//内核_raw_spin_lock
+	_raw_spinunlock = (raw_spinlock_fn)asp->sta.spinlock_unlock_fn;	////内核_raw_spin_unlock
 	/* semaphore */
-	down_trylock = (down_trylock_fn)asp->sta._down_trylock_fn;
+	down_trylock = (down_trylock_fn)asp->sta._down_trylock_fn;	//内核down_trylock
 
 	/* 在串口下输入以下命令开始循环和linux测试双核
 	* echo test > /sys/class/amp/amp/amp_test
