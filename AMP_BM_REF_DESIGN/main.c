@@ -1081,17 +1081,17 @@ int  main (void)
 	* echo test > /sys/class/amp/amp/amp_test
 	*/
 #if 1
-	while(1){
-		if(sgi15task_pending){	
+	while (1) {
+		if (sgi15task_pending) {	//如果收到sgi 15
 			UART_DEBUG("sgi15task_pending is on\r\n");
-			if(ACCESS_ONCE(asp->sra[SGI_LINUX_REQ_BM_CONSUME_BUF].linux_cmd_args) == 0){	// 0就是eSH_DRAM，验证DRAM
+			if (ACCESS_ONCE(asp->sra[SGI_LINUX_REQ_BM_CONSUME_BUF].linux_cmd_args) == 0) {	// 0就是eSH_DRAM,验证DRAM
 				/**************************************************************************************/
 				/**** place interrupt here test worse case interrupt latency would be more accuracy ***/
 				/**** casue we not only take care of 10000 interrupts/second from FPGA, but also    ***/
 				/**** suffer more than 6000 extra interrupts/second from IPI and offen L1 data cahce miss **/
 				/**************************************************************************************/
 #ifdef TEST_IL_MORE_ACCURACY
-				if(testIL){
+				if (testIL) {
 					bmlog("\n________________________________________________________________________________\n");
 	                bmlog("Now the BM CPU would suffer more than 16000 interrupts/second(10000i/s from\n");
 	                bmlog("FPGA_IRQ0 req(100us),more than 6000i/s from IPI(Inner Process Interrupt), and\n");
@@ -1110,7 +1110,7 @@ int  main (void)
 				/************************************************************************/
 				//p = (unsigned int *)0x1E200000;
 				p = (unsigned int *)0xFC800000;		//共享内存的dram区域开始地址
-				for(i = 0; i < (DRAM_BUF_SIZE/4); i++){		//steps2 验证linux端写入共享内存DRAM_BUF的数据是否为CPU_DATA_PATERN0
+				for (i = 0; i < (DRAM_BUF_SIZE/4); i++) {	//steps2 验证linux端写入共享内存DRAM_BUF的数据是否为CPU_DATA_PATERN0
 					if(*p != CPU_DATA_PATERN0)
 						printk("check buf from linux failed! i=%d, *p=%x\n", i, *p);
 					p++;
@@ -1138,7 +1138,7 @@ int  main (void)
 #endif
 				sgi15task_pending = 0;
 				gic_raise_interrupt(CPU0, GIC_SGI13);		//触发SGI13中断给linux
-			}else if(ACCESS_ONCE(asp->sra[SGI_LINUX_REQ_BM_CONSUME_BUF].linux_cmd_args) == 1){	//验证sram
+			}else if (ACCESS_ONCE(asp->sra[SGI_LINUX_REQ_BM_CONSUME_BUF].linux_cmd_args) == 1) { //验证sram
 				p = (unsigned int *)0xfe700000;		//共享内存的sram区域开始地址
 				for(i = 0; i < (SRAM_BUF_SIZE/4); i++)		//steps 2 验证linux端写入共享内存SRAM_BUF的数据是否为CPU_DATA_PATERN0
 				{
@@ -1251,7 +1251,7 @@ int  main (void)
 
 				testIL = 1;
 			
-#ifdef DMA_AND_ACP_TEST			/* 测试dma和acp */	
+#ifdef DMA_AND_ACP_TEST		/* 测试dma和acp */	
 				dma_init();	//dma控制器初始化
 				//DMAC_regs_dump(0);
 				dma_mem2mem();//开启一个内存到内存的dma测试

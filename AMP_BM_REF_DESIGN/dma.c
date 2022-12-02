@@ -334,11 +334,9 @@ s32 alt_dma_init(const ALT_DMA_CFG_t * dma_cfg)
 
     // Handle FPGA / CAN muxing
     /* 设置4个FPGA和CAN复用的shared peripheral request interfaces为FPGA */
-    for (i = 0; i < 4; ++i)
-    {
+    for (i = 0; i < 4; ++i) {
         // The default is FPGA.
-        switch (dma_cfg->periph_mux[i])
-        {
+        switch (dma_cfg->periph_mux[i]) {
         case ALT_DMA_PERIPH_MUX_DEFAULT:
         case ALT_DMA_PERIPH_MUX_FPGA:
             break;
